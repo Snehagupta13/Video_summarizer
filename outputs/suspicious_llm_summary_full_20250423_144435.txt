@@ -1,0 +1,352 @@
+=== RAW BLIP CAPTIONS ===
+frame_0.jpg: a black square with a white border
+frame_60.jpg: a hotel lobby with a large marble floor
+frame_90.jpg: a man in a suit is walking through a lobby
+frame_120.jpg: a man in a red shirt is talking to another man
+frame_150.jpg: a woman is getting into a car
+frame_180.jpg: a woman in red jacket walking down a street
+frame_210.jpg: a man standing in front of a television screen
+frame_240.jpg: a man standing in front of a bar
+frame_300.jpg: a group of people dancing in a room
+frame_330.jpg: a video of a man in a room with a carpet
+frame_360.jpg: a man walking through a room with a sign
+frame_390.jpg: a car is parked in front of a building
+frame_420.jpg: a car is driving down the street in front of a building
+frame_450.jpg: a car parked in front of a building
+frame_480.jpg: the entrance to the hotel in the city
+frame_510.jpg: a man walking through a flower garden
+frame_540.jpg: a woman sitting on a bus with a man standing next to her
+frame_570.jpg: a man is standing in front of a mirror
+frame_600.jpg: a man in a red shirt is being carried by a man in a black suit
+frame_630.jpg: a man in a red jacket is pulling a carriage
+frame_660.jpg: a man in a red shirt is getting into a car
+frame_690.jpg: a video of a man in a suit and tie
+frame_720.jpg: department of homeland security
+frame_750.jpg: a video of a city street with cars and buildings
+frame_780.jpg: a video of a police car driving down the street
+frame_810.jpg: a view of a street with cars and buildings
+frame_840.jpg: a car is parked in front of a hotel
+frame_870.jpg: no reservationss - hotel in the city
+frame_900.jpg: no reservationss - hotel in the heart of the city
+frame_930.jpg: a picture of a hotel with a sign that says no reservationss
+frame_960.jpg: a person pulling a suitcase in an airport
+frame_990.jpg: a couple walking down a hallway in a building
+frame_1020.jpg: a man in a suit is talking to another man
+frame_1080.jpg: a taxi is parked in front of a building
+frame_1110.jpg: a taxi is parked in front of a hotel
+frame_1140.jpg: a taxi is parked in front of a building
+frame_1170.jpg: a person is opening the door of a car
+frame_1200.jpg: a man in a red shirt is getting into a car
+frame_1230.jpg: a man and woman are getting into a car
+frame_1260.jpg: a man in a red shirt and black pants is talking to a woman in a red shirt
+frame_1290.jpg: a man in a red suit and a woman in a red jacket
+frame_1320.jpg: a man in a red jacket and tie shaking hands with another man in a red suit
+frame_1350.jpg: a man in a suit and tie is walking towards a car
+frame_1380.jpg: a man in a suit is walking through a building
+frame_1410.jpg: a man in a white suit and tie walking down a hallway
+frame_1440.jpg: a man in a suit is standing in a lobby
+frame_1470.jpg: a video of a man walking through a building
+frame_1500.jpg: a man is standing outside of a building
+frame_1530.jpg: a man in a black shirt is standing in front of a building
+frame_1560.jpg: a man in a black shirt is standing in a room
+frame_1590.jpg: a man in a black shirt and hat is talking to a woman
+frame_1620.jpg: a man in a black shirt and hat talking to another man
+frame_1650.jpg: two men in suits walking through a lobby
+frame_1680.jpg: a man is throwing a ball at a woman
+frame_1710.jpg: a man and woman are dancing in a courtyard
+frame_1740.jpg: a man in a suit and tie is smiling
+frame_1770.jpg: a man in a suit and tie standing in a room
+frame_1800.jpg: a man in a white hat is standing on top of a car
+frame_1830.jpg: a group of people standing outside of a building
+frame_1860.jpg: a white van parked in front of a building
+frame_1890.jpg: a man in a red uniform is talking to another man
+frame_1980.jpg: a man in a red shirt and a man in a white shirt
+frame_2010.jpg: a white van parked in front of a building
+frame_2040.jpg: a man is standing in front of a car
+frame_2070.jpg: a white van parked in a parking lot
+frame_2100.jpg: a man in a car with a gun
+frame_2130.jpg: a man standing next to a car
+frame_2160.jpg: a man is standing next to a white van
+frame_2190.jpg: a man is walking in front of a van
+frame_2220.jpg: a man in a black shirt is walking through a parking lot
+frame_2280.jpg: a man playing a guitar in a room
+frame_2310.jpg: a man in a black shirt talking on a cell
+frame_2340.jpg: a man in a red uniform is dancing
+frame_2370.jpg: a man in a red uniform is pointing at a woman
+frame_2400.jpg: a group of people standing in front of a car
+frame_2430.jpg: a man in sunglasses is walking down the street
+frame_2490.jpg: a man in a red shirt and hat is waving
+frame_2520.jpg: a man in a red uniform is holding up his hand
+frame_2550.jpg: a black van parked in a parking lot
+frame_2580.jpg: a white car parked in a parking lot
+frame_2640.jpg: a white car parked on the side of a road
+frame_2670.jpg: a white van parked in front of a building
+frame_2700.jpg: a white van parked in front of a house
+frame_2730.jpg: a white van parked on the side of a road
+frame_2760.jpg: a sign that is on the side of a building
+frame_2790.jpg: a sign that says no parking is allowed
+frame_2820.jpg: no parking sign on a building
+frame_2850.jpg: a white van parked in front of a building
+frame_2970.jpg: a man and woman are standing at a desk
+frame_3000.jpg: a man in a suit is handing another person a card
+frame_3030.jpg: a man and woman are talking to each other people
+frame_3060.jpg: a man in a suit and tie talking to a woman
+frame_3090.jpg: a man is standing at the counter in a hotel
+frame_3120.jpg: a man and woman standing in front of a counter
+frame_3150.jpg: a man and woman are standing in an airport
+frame_3180.jpg: a man and woman standing in front of a counter
+frame_3210.jpg: a man in a black shirt is standing in front of a desk
+frame_3240.jpg: a man and woman talking in an office
+frame_3270.jpg: a man in a suit talking on a phone
+frame_3300.jpg: a man in a suit and tie talking to a woman
+frame_3330.jpg: a man in a suit talking to another man
+frame_3360.jpg: a woman talking to another woman in a room
+frame_3390.jpg: a woman talking to a man in a suit
+frame_3420.jpg: a woman in a red shirt talking to a man
+frame_3450.jpg: a man and woman talking in a room
+frame_3570.jpg: a woman in a red dress is talking to another
+frame_3630.jpg: the good wife tv spot
+frame_3660.jpg: a man in a suit talking to a woman
+frame_3690.jpg: a man and woman talking in a room
+frame_3720.jpg: a man is standing in front of a counter
+frame_3780.jpg: the good wife tv spot
+frame_3810.jpg: a man and woman standing in front of a wall
+frame_3960.jpg: a woman in a red dress talking to a man
+frame_4020.jpg: a man and woman talking in front of a wall
+frame_4050.jpg: a man in a suit and tie standing in front of a wall
+frame_4080.jpg: a couple of people standing in a room
+frame_4110.jpg: a man and woman are talking in a room
+frame_4140.jpg: a man and woman sitting in a room
+frame_4170.jpg: a man and woman are sitting in front of a television screen
+frame_4230.jpg: a man and woman are sitting in a room
+frame_4260.jpg: a man and woman standing in front of a television screen
+frame_4290.jpg: a man and woman are talking in a room
+frame_4320.jpg: a man and woman in a hotel lobby
+frame_4350.jpg: a woman sitting at a desk with a man standing behind her
+frame_4380.jpg: a group of people walking around a lobby
+frame_4410.jpg: a man and woman dancing in a lobby
+frame_4440.jpg: a man standing in front of a hotel lobby
+frame_4470.jpg: a man walking through a lobby with people
+frame_4500.jpg: a man in a suit is standing in front of a counter
+frame_4530.jpg: a man standing in front of a bar
+frame_4560.jpg: a man standing in front of a reception desk
+frame_4590.jpg: a man is standing in front of a counter
+frame_4620.jpg: a man in a store with a pink hat
+frame_4650.jpg: a woman standing in front of a store
+frame_4680.jpg: two women talking in a store
+frame_4710.jpg: a woman talking to another woman in a store
+frame_4740.jpg: a woman sitting at a table in a restaurant
+frame_4770.jpg: a woman is sitting in a bar with a man
+frame_4800.jpg: a group of people sitting around a table
+frame_4830.jpg: two women talking in a store
+frame_4860.jpg: two women in a store talking to each other women
+frame_4890.jpg: a man is putting a bottle of wine
+frame_4920.jpg: a group of people sitting around a table
+frame_4950.jpg: a person holding onto a black bag
+frame_4980.jpg: a man in a black jacket is standing in a restaurant
+frame_5010.jpg: a group of people sitting at tables in a restaurant
+frame_5040.jpg: a man in a suit is standing at a bar
+frame_5070.jpg: a group of people standing around a bar
+frame_5100.jpg: a woman in a store talking to another woman
+frame_5160.jpg: a woman in a blue shirt and a woman in a pink shirt
+frame_5190.jpg: two women standing in a store with a sign that says no people leave
+frame_5220.jpg: a woman talking to another woman in a store
+frame_5250.jpg: a woman in a store talking to another woman
+frame_5280.jpg: two women in a store talking to each other women
+frame_5310.jpg: a woman is looking at a woman in a store
+frame_5340.jpg: a woman is looking at a shirt in a store
+frame_5370.jpg: two women in a clothing store talking to each other women
+frame_5400.jpg: a woman and a woman in a store
+frame_5430.jpg: a woman in a store talking to another woman
+frame_5460.jpg: the big bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang bang
+frame_5490.jpg: a woman in a pink shirt is talking to another woman
+frame_5520.jpg: a woman in a blue shirt is standing in a store
+frame_5550.jpg: a woman in a store with a hat
+frame_5580.jpg: a dog is sitting on a table in a restaurant
+frame_5610.jpg: a cat sitting on top of a table
+frame_5670.jpg: a dog is sitting on a table in a restaurant
+frame_5700.jpg: a black cat sitting on top of a wooden chair
+frame_5730.jpg: a dog is standing on a table in a restaurant
+frame_5760.jpg: a dog sitting on top of a table
+frame_5790.jpg: a dog is sitting on a chair in a room
+frame_5820.jpg: a black bag sitting on top of a table
+frame_5880.jpg: a black dog sitting on top of a wooden chair
+frame_5910.jpg: a man in a white hat is cooking
+frame_5940.jpg: a man in a kitchen preparing food
+frame_5970.jpg: a man in a white coat is preparing food
+frame_6030.jpg: a man in a kitchen preparing food
+frame_6060.jpg: a video of two chefs in a kitchen
+frame_6090.jpg: a couple of chefs are preparing food in a kitchen
+frame_6120.jpg: a man in a kitchen preparing food
+frame_6150.jpg: a woman in a white shirt is standing in front of a screen
+frame_6180.jpg: a woman in a white shirt is smiling
+frame_6210.jpg: a man in a chef ' s hat is talking to the camera
+frame_6240.jpg: a woman in a white shirt is standing in a kitchen
+frame_6270.jpg: a blur of a person walking in a room
+frame_6300.jpg: a man in a black shirt is standing in an office
+frame_6360.jpg: a man in a chef ' s hat is talking to the camera
+frame_6390.jpg: a man in a black shirt is standing in a room
+frame_6420.jpg: a man in a black jacket is standing in an office
+frame_6450.jpg: a man in a black shirt is standing in a room
+frame_6480.jpg: a man in a black jacket is seen in a video
+frame_6510.jpg: a woman with a white shirt and a black hair
+frame_6540.jpg: a woman in a white shirt is talking to another
+frame_6570.jpg: a man in a chef ' s hat is cooking
+frame_6600.jpg: a man in a black jacket and sunglasses
+frame_6630.jpg: a man in a chef ' s hat is cooking
+frame_6660.jpg: a man in a chef ' s hat is holding a knife
+frame_6690.jpg: chef in white uniform holding up a knife
+frame_6720.jpg: a chef is in the kitchen with a white hat
+frame_6750.jpg: a man and woman in a kitchen talking
+frame_6780.jpg: a man in a kitchen preparing food
+frame_6870.jpg: a chef is preparing food in a kitchen
+frame_6900.jpg: a chef in a kitchen preparing food
+frame_6930.jpg: a kitchen with a lot of counter space
+frame_6960.jpg: a man in a white shirt is standing in a kitchen
+frame_6990.jpg: a man is standing in front of a wall
+frame_7020.jpg: a bulletin board with a bunch of papers on it
+frame_7050.jpg: a picture of a painting hanging on a wall
+frame_7080.jpg: a man is standing in front of a pile of boxes
+frame_7110.jpg: a man in a suit and tie standing in a room
+frame_7140.jpg: a man in a suit is standing in front of a mirror
+frame_7170.jpg: a man in a suit is talking to another man
+frame_7200.jpg: a man in a suit is standing in a room
+frame_7290.jpg: a man standing in a room with a bag
+frame_7320.jpg: a door handle
+frame_7350.jpg: a man standing in a bedroom next to a bed
+frame_7380.jpg: a man in a hotel room with a bed and a television
+frame_7410.jpg: a man standing in a bedroom next to a bed
+frame_7440.jpg: a man in a hotel room with a desk and chair
+frame_7470.jpg: a table with a laptop and a keyboard
+frame_7500.jpg: a small device sitting on top of a table
+frame_7530.jpg: a video of a car ' s wiring and wires
+frame_7560.jpg: a computer with wires and wires attached to it
+frame_7590.jpg: a man standing in front of a television
+frame_7620.jpg: a man standing in a living room next to a table
+frame_7650.jpg: a black and white photo of a person sitting at a table
+frame_7680.jpg: a radio and a radio receiver on a table
+frame_7710.jpg: a woman looking at herself in a mirror
+frame_7740.jpg: a man in a suit standing in front of a mirror
+frame_7800.jpg: a woman in a suit and tie standing in front of a mirror
+frame_7830.jpg: a man standing in a living room next to a couch
+frame_7860.jpg: a room with a couch, chair and television
+frame_7890.jpg: a man in a blue shirt and tie standing in a room
+frame_7920.jpg: a man in a blue shirt and tie standing in front of a television
+frame_8010.jpg: a man is sitting in a hotel room
+frame_8040.jpg: a man sitting on a bed in a hotel room
+frame_8130.jpg: a man is watching a video on a television
+frame_8160.jpg: a man is watching a television screen
+frame_8190.jpg: a man is watching a tv screen
+frame_8220.jpg: a man is watching a television screen
+frame_8250.jpg: a man in a blue shirt and tie sitting on a bed
+frame_8310.jpg: a man in a blue shirt and tie sitting in a hotel room
+frame_8340.jpg: a man in a blue shirt and tie sitting on a bed
+frame_8370.jpg: a television screen showing a video of a man being shot
+frame_8400.jpg: a tv screen showing a hockey game
+frame_8430.jpg: a television screen showing a video of a man on a television screen
+frame_8460.jpg: a man sitting on a bed with a laptop
+frame_8490.jpg: a man sitting on a bed in a hotel room
+frame_8580.jpg: a man in a hotel room with a suitcase
+frame_8640.jpg: a man in a hotel room with a bed
+frame_8670.jpg: a man is standing in a hotel room
+frame_8700.jpg: a hotel room with a bed and a desk
+frame_8730.jpg: a group of people standing around a tv
+frame_8760.jpg: a group of men in suits and ties are talking
+frame_8790.jpg: a man in a suit looking at a television screen
+frame_8820.jpg: a man in a suit and tie is looking at the camera
+frame_8880.jpg: a tv screen with two men in suits
+frame_8910.jpg: a tv screen with a man in a suit and tie
+frame_8940.jpg: a man in a suit talking to another man
+frame_8970.jpg: a man in a suit talking on a cell
+frame_9000.jpg: a man in a suit talking to another man
+frame_9030.jpg: a man in a suit and tie kissing another man
+frame_9060.jpg: a man in a suit is watching a television
+frame_9090.jpg: a woman talking on a cell phone
+frame_9150.jpg: a woman sitting at a desk with a laptop
+frame_9180.jpg: a chef is in the kitchen preparing food
+frame_9210.jpg: a man in a chef ' s hat talking on a cell
+frame_9300.jpg: a woman in a black jacket is talking on a cell
+frame_9360.jpg: a woman in a black shirt is talking into a microphone
+frame_9390.jpg: a woman in a black shirt is talking on a cell
+frame_9420.jpg: a man in a red uniform talking on a cell
+frame_9450.jpg: a woman in red is talking on her cell
+frame_9480.jpg: a man in a red uniform talking on a cell
+frame_9570.jpg: a man in a suit and tie is standing in front of a podium
+frame_9600.jpg: a man in a suit talking to another man
+frame_9630.jpg: a man and woman talking to each other people
+frame_9660.jpg: a man and woman talking in front of a wall
+frame_9690.jpg: a man and woman in suits are talking
+frame_9720.jpg: a man and woman talking on the phone
+frame_9750.jpg: a man talking on a cell phone
+frame_9780.jpg: a man in a chef ' s hat talking on a cell
+frame_9810.jpg: a woman talking on a cell phone
+frame_9840.jpg: a woman sitting at a desk with a laptop
+frame_9870.jpg: a woman sitting at a table with a microphone
+frame_9900.jpg: a large lobby with a red couch and a red chair
+frame_9930.jpg: a man and woman are walking through a lobby
+frame_9960.jpg: a school bus is parked in front of a building
+frame_9990.jpg: a tv screen with a picture of a building
+frame_10020.jpg: a video of a house with a clock on the front
+frame_10050.jpg: a man in a blue shirt is walking through a garden
+frame_10080.jpg: a man sitting at a table with a laptop
+frame_10110.jpg: a woman sitting at a table with a drink
+frame_10140.jpg: a woman sitting at a table talking on a cell
+frame_10170.jpg: a man in a red shirt is walking down the street
+frame_10200.jpg: a man in a red jacket is standing on a car
+frame_10230.jpg: the vampire diaries - official trailer
+frame_10260.jpg: a man in a suit and tie standing in front of a tv screen
+frame_10290.jpg: a person standing in front of a window
+frame_10320.jpg: a cat sitting in front of a window
+frame_10350.jpg: a cake on a plate with a cupcake on top
+frame_10380.jpg: a woman is holding a little girl in her arms
+frame_10410.jpg: a woman is getting into a truck
+frame_10440.jpg: a man in a red shirt talking to another man
+frame_10470.jpg: a man in a suit and tie is talking to another man
+frame_10500.jpg: a man in a red shirt is walking through a door
+frame_10530.jpg: a cat is standing in the lobby of a hotel
+frame_10560.jpg: a man in a suit standing in a hotel lobby
+frame_10590.jpg: a man in a suit walking through a lobby
+frame_10620.jpg: a hotel lobby with a man walking through it
+frame_10650.jpg: a man is playing with a dog in a hotel lobby
+frame_10680.jpg: a video of a hotel lobby with a large carpet
+frame_10740.jpg: a black screen with the words for more information, please visit www
+frame_10830.jpg: the words in the black background are written on the screen
+frame_10860.jpg: a black and white photo with the words, ' special hotels '
+frame_10920.jpg: the words are in black and white on a black background
+frame_10950.jpg: a video of the department of homeland and homeland protection
+frame_10980.jpg: a video of the department of homeland protection
+frame_11010.jpg: a video of a video of a video of a video of a video of a video of a video
+frame_11100.jpg: a black square with a white border
+
+=== LLM-FORMATTED CAPTIONS ===
+After analyzing the video frame captions, I have identified the most important information and created a coherent narrative summary. Here is the processed summary:
+
+The video appears to be a surveillance footage of various events taking place in a city. The story begins with a man in a suit walking through a hotel lobby (frame 90) and then cuts to a man in a red shirt talking to another man (frame 120). A woman is seen getting into a car (frame 150), and later, a man in a red jacket is walking down a street (frame 180).
+
+The video then cuts to a man standing in front of a television screen (frame 210) and later, a group of people dancing in a room (frame 300). A man is seen walking through a room with a sign (frame 360), and a car is parked in front of a building (frame 390).
+
+The story takes a turn when a man in a red shirt is being carried by a man in a black suit (frame 600), and later, a man in a red jacket is pulling a carriage (frame 630). A man in a red shirt is seen getting into a car (frame 660), and a video of a city street with cars and buildings is shown (frame 750).
+
+The video then cuts to a police car driving down the street (frame 780), and a view of a street with cars and buildings is shown (frame 810). A car is parked in front of a hotel (frame 840), and a person is seen pulling a suitcase in an airport (frame 960).
+
+The story concludes with a couple walking down a hallway in a building (frame 990), and a man in a suit is seen talking to another man (frame 1020). A taxi is parked in front of a building (frame 1110), and a person is opening the door of a car (frame 1170).
+
+Throughout the video, various individuals are seen walking, talking, and interacting with each other. The video also shows cars, buildings, and streets, suggesting that the events are taking place in a city. The narrative is unclear, but it appears to be a surveillance footage of daily life in a city.
+
+=== RAW OCR TEXT (EasyOCR) ===
+Informyour manager
+~govlcfsector
+FOR
+NQPARKING
+Red Roof Inn
+TOR
+Suspicious Behaviorin
+VEHICLE
+Alert security
+WWW dhs
+Vandiver Inn
+Marriott International, Inc.
+Commercial Facilities Sector Partners
+For more information, please visit:
+Hotels
+InterContinental Hotels Group
