@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment / secrets
+.env
+
+# Generated at runtime by the video pipeline
+frames/
+captioned_frames/
+outputs/
+faiss_store/
+
+# Media / large binaries
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store

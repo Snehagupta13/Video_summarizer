@@ -2,13 +2,14 @@ import os
 import json
 from dotenv import load_dotenv
 from typing import List
-from langchain.prompts import PromptTemplate
-from langchain.vectorstores.faiss import FAISS
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.schema import Document
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.chains import RetrievalQA
-from langchain.retrievers.multi_query import MultiQueryRetriever
+from langchain_core.prompts import PromptTemplate
+from langchain_community.vectorstores import FAISS
+from langchain_community.embeddings import HuggingFaceEmbeddings
+
+from langchain_core.documents import Document
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_classic.chains import RetrievalQA
+from langchain_classic.retrievers.multi_query import MultiQueryRetriever
 from langchain_groq import ChatGroq
 
 # Load environment
@@ -60,7 +61,7 @@ def build_qa_chain(vectorstore: FAISS):
     llm = ChatGroq(
         temperature=0.3,
         api_key=GROQ_API_KEY,
-        model_name="llama3-8b-8192"
+        model_name="llama-3.1-8b-instant"
     )
 
     # Multi-query retriever for better coverage

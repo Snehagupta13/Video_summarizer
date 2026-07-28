@@ -89,7 +89,7 @@ def run_chatbot_node(state: VideoState) -> VideoState:
             raise ValueError("Scene summary is empty or too short")
         
         # Prepare paths
-        base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        base_dir = os.path.dirname(os.path.abspath(__file__))
         output_dir = os.path.join(base_dir, "outputs")
         store_path = os.path.join(base_dir, "faiss_store")
         

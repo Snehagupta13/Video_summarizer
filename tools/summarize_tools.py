@@ -11,7 +11,7 @@ from state import VideoState
 from .blip_tools import generate_captions
 from .easy_ocr import extract_text_from_frames
 from langchain_groq import ChatGroq
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 
 load_dotenv()
 
@@ -39,7 +39,7 @@ def format_captions_with_llm(captions: str) -> str:
         llm = ChatGroq(
             temperature=0.4,  # Lower temperature for more factual output
             api_key=api_key,
-            model_name="llama3-8b-8192",
+            model_name="llama-3.1-8b-instant",
             max_tokens=1024  # Explicit token limit
         )
 

@@ -1,7 +1,7 @@
 from langchain_text_splitters import CharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain.chains import RetrievalQA
+from langchain_classic.chains import RetrievalQA
 from langchain_groq import ChatGroq
 from langchain_community.document_loaders import TextLoader
 from langchain_core.prompts import PromptTemplate
@@ -48,7 +48,7 @@ def build_main_chain(transcript_path: str = "src/outputs/suspicious_llm_summary_
 
     # Use ChatGroq LLM
     qa_chain = RetrievalQA.from_chain_type(
-        llm=ChatGroq(model="llama3-8b-8192", temperature=0.7),
+        llm=ChatGroq(model="llama-3.1-8b-instant", temperature=0.7),
         chain_type="stuff",
         retriever=retriever,
         chain_type_kwargs={"prompt": prompt_template},
