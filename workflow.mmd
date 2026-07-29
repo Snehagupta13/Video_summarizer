@@ -8,12 +8,17 @@ graph TD;
 	process_video(process_video)
 	process_captions(process_captions)
 	process_easyocr(process_easyocr)
-	summarize_captions([summarize_captions]):::last
+	process_speech(process_speech)
+	summarize_captions(summarize_captions)
+	run_chatbot_node(run_chatbot_node)
+	__end__([<p>__end__</p>]):::last
 	__start__ --> process_video;
-	process_captions --> summarize_captions;
-	process_easyocr --> summarize_captions;
+	process_captions --> process_easyocr;
+	process_easyocr --> process_speech;
+	process_speech --> summarize_captions;
 	process_video --> process_captions;
-	process_video --> process_easyocr;
+	summarize_captions --> run_chatbot_node;
+	run_chatbot_node --> __end__;
 	classDef default fill:#f2f0ff,line-height:1.2
 	classDef first fill-opacity:0
 	classDef last fill:#bfb6fc
