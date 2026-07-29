@@ -24,6 +24,10 @@ class VideoState(BaseModel):
         default="",
         description="Text extracted from frames using OCR"
     )
+    speech_text: str = Field(
+        default="",
+        description="Speech transcript extracted from the video audio using WhisperX"
+    )
     scene_summary: str = Field(
         default="",
         description="LLM-generated summary of video scenes"

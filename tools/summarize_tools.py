@@ -10,6 +10,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from state import VideoState
 from .blip_tools import generate_captions
 from .easy_ocr import extract_text_from_frames
+from .speech_to_text import transcribe_audio
 from langchain_groq import ChatGroq
 from langchain_core.prompts import PromptTemplate
 
@@ -89,9 +90,13 @@ def generate_caption_summary(state: VideoState, video_path: str) -> Dict[str, An
         if not state.extracted_text:
             state.extracted_text, _ = extract_text_from_frames()
 
+        if not state.speech_text:
+            state.speech_text = transcribe_audio(video_path)
+
         raw_caption_text = "\n".join([f"{os.path.basename(f)}: {c}" for f, c in state.captions])
         formatted_captions = format_captions_with_llm(raw_caption_text)
         extracted_text = (state.extracted_text or "").strip()
+        speech_text = (state.speech_text or "").strip()
 
         final_text = (
             "=== RAW BLIP CAPTIONS ===\n"
@@ -99,7 +104,9 @@ def generate_caption_summary(state: VideoState, video_path: str) -> Dict[str, An
             "=== LLM-FORMATTED CAPTIONS ===\n"
             f"{formatted_captions}\n\n"
             "=== RAW OCR TEXT (EasyOCR) ===\n"
-            f"{extracted_text}"
+            f"{extracted_text}\n\n"
+            "=== SPEECH TRANSCRIPT (WhisperX) ===\n"
+            f"{speech_text}"
         )
 
         filename = save_to_file(final_text, video_path, "llm_summary_full")
@@ -108,6 +115,7 @@ def generate_caption_summary(state: VideoState, video_path: str) -> Dict[str, An
             "raw_captions": raw_caption_text,
             "formatted_captions": formatted_captions,
             "extracted_text": extracted_text,
+            "speech_text": speech_text,
             "output_file": filename,
             "output_files": {"captions_and_text": filename} if filename else None
         }

@@ -3,6 +3,7 @@ from nodes import (
     process_video,
     process_captions,
     process_easyocr,
+    process_speech,
     summarize_captions,
     run_chatbot_node,
 )
@@ -15,6 +16,7 @@ builder = StateGraph(VideoState)
 builder.add_node("process_video", process_video)
 builder.add_node("process_captions", process_captions)
 builder.add_node("process_easyocr", process_easyocr)
+builder.add_node("process_speech", process_speech)
 builder.add_node("summarize_captions", summarize_captions)
 builder.add_node("run_chatbot_node", run_chatbot_node)
 
@@ -24,7 +26,8 @@ builder.set_entry_point("process_video")
 # Define linear flow between nodes
 builder.add_edge("process_video", "process_captions")
 builder.add_edge("process_captions", "process_easyocr")
-builder.add_edge("process_easyocr", "summarize_captions")
+builder.add_edge("process_easyocr", "process_speech")
+builder.add_edge("process_speech", "summarize_captions")
 builder.add_edge("summarize_captions", "run_chatbot_node")
 
 # Compile the graph into an executable app

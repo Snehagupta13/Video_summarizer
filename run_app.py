@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import tempfile
 from state import VideoState
-from nodes import process_video, process_captions, process_easyocr, summarize_captions
+from nodes import process_video, process_captions, process_easyocr, process_speech, summarize_captions
 from tools.rag import create_vectorstore_from_text, build_qa_chain
 
 def validate_video_file(video_path: str) -> None:
@@ -24,6 +24,8 @@ def run_pipeline(video_path: str) -> VideoState:
         state = state.model_copy(update=process_captions(state))
     with st.spinner("Reading on-screen text (OCR)..."):
         state = state.model_copy(update=process_easyocr(state))
+    with st.spinner("Transcribing speech (WhisperX)..."):
+        state = state.model_copy(update=process_speech(state))
     with st.spinner("Summarizing with LLM..."):
         state = summarize_captions(state)
 
@@ -73,6 +75,10 @@ if uploaded_file:
 if st.session_state.video_state:
     validated = st.session_state.video_state
     st.json(validated.model_dump(), expanded=False)
+
+    if validated.speech_text:
+        st.markdown("### 🗣️ Speech Transcript")
+        st.write(validated.speech_text)
 
     if validated.output_files:
         st.markdown("### 📂 Output Files")

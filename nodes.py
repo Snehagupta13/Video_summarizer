@@ -1,6 +1,7 @@
 from tools.blip_tools import convert_video, extract_frames, generate_captions
 from tools.summarize_tools import generate_caption_summary  
 from tools.easy_ocr import extract_text_from_frames
+from tools.speech_to_text import transcribe_audio
 from tools.rag import create_vectorstore_from_text, save_vectorstore, build_qa_chain, run_chatbot_from_file
 from state import VideoState
 from typing import Dict, Any
@@ -44,6 +45,15 @@ def process_easyocr(state: VideoState) -> dict:
         print(f"OCR error: {e}")
         return {"extracted_text": "Extraction failed"}
 
+def process_speech(state: VideoState) -> dict:
+    """Transcribe speech from the video's audio track using WhisperX."""
+    try:
+        video_path = state.converted_video or state.input_video
+        return {"speech_text": transcribe_audio(video_path)}
+    except Exception as e:
+        print(f"Speech-to-text error: {e}")
+        return {"speech_text": ""}
+
 def summarize_captions(state: VideoState) -> VideoState:
     try:
         if not state.input_video:
@@ -62,6 +72,7 @@ def summarize_captions(state: VideoState) -> VideoState:
         state.output_files = result.get("output_files", {})
         state.captions = state.captions or result.get("raw_captions", [])
         state.extracted_text = state.extracted_text or result.get("extracted_text", "")
+        state.speech_text = state.speech_text or result.get("speech_text", "")
         state.scene_summary = result.get("formatted_captions", "No summary available")
         state.text_summary = result.get("extracted_text", "No text extracted")
 
